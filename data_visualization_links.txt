@@ -1,0 +1,5 @@
+https://www.amazon.com/Graphics-Second-Chapman-Hall-CRC/dp/1439831769/
+
+http://docs.ggplot2.org/dev/vignettes/extending-ggplot2.html
+
+https://www.ggplot2-exts.org/index.html
